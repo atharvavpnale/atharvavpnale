@@ -18,7 +18,7 @@ Currently pursuing a Bachelor of Computer Applications (BCA) with a specializati
 ---
 [![](https://visitcount.itsvg.in/api?id=atharvavpnale&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
 <!--
 **atharvavpnale/atharvavpnale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
