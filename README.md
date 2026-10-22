@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Cyber Security, focused on developing strong skills in securing systems, protecting data, and understanding modern cybersecurity practices.<br>
+Currently pursuing a Master of Computer Applications (MCA) with a specialization in Cyber Security, focused on developing strong skills in securing systems, protecting data, and understanding modern cybersecurity practices.<br>
 
 
 ## 🌐 Socials:
